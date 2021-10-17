@@ -20,5 +20,5 @@ You can use any resource you like, and ask us questions during the session.
 
 Good luck! 
 
-
+**i hade a problem with runung the project localy, started the work at 10:35 and finished at 12:00**
 **I did the task until 12, i dud not use the extra time becouse i had to go to work.**
