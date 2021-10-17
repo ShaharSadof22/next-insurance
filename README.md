@@ -12,10 +12,13 @@ You can use any resource you like, and ask us questions during the session.
 5.  Fix Style issue when inserts a lot of items - add short description for how you approach it (5pt)
 6.  When launching the app for the first time, the `addItem` input should be in focus (5pt) Done
 7.  Fix the counter on the footer (5pt) Done
-8.  Add a code comment explaining what `delegateEvent` function does (10pt)
+8.  Add a code comment explaining what `delegateEvent` function does (10pt) Done
 //  This function help as to add events to elements in the HTML in an easy and short why. 
 9.  Load and display tasks from https://jsonplaceholder.typicode.com/todos when application loads (20pt)
 10. Prevent adding task that contain `< >` in the title. (replace with blank), For example: 'Learn < JS >' should become 'Learn JS' (10pt) 
 11. Handle the error in the console (15pt)
 
 Good luck! 
+
+
+**I did the task until 12, i dud not use the extra time becouse i had to go to work.**
