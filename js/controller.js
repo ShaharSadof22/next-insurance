@@ -32,6 +32,7 @@ export default class Controller {
 		const todos = this.store.getAll()
 		if(todos.filter(todo => todo.title === title).length > 0) {return};
 
+		title = title.replace(/</g, " ").replace(/>/g, " ");
 		this.store.insert({
 			id: Date.now(),
 			title,
